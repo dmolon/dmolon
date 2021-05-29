@@ -4,6 +4,6 @@ Fullstack developer
 
 - Angular
 - Flutter
-- Kotlin
-- Java
-- C#
+- Kotlin (Android)
+- Java (Spring Boot)
+- C# (Entity Framework)
